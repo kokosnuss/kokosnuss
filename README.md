@@ -1,4 +1,5 @@
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/27d16feb-a995-4c88-a37a-a8f492270803 "HashiCorp Certified: Terraform Associate (003)")
 <!--END_SECTION:badges-->
 
 
