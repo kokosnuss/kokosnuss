@@ -1,4 +1,4 @@
 - uses: michaelcontento/credly-import-action@v1
-  with:
-    # The user of whom we want to grab the infos
-    name: kokosnuss
+   with:
+     # The user of whom we want to grab the infos
+     name: kokosnuss
