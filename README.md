@@ -9,7 +9,8 @@ $ Here’s a fun fact for your GitHub profile:
 Certifications:
 ---
 <!--START_SECTION:badges-->
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/27d16feb-a995-4c88-a37a-a8f492270803 "HashiCorp Certified: Terraform Associate (003)")
+[![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/110x110/images/1229ce48-f435-4832-8afe-c33d17fa643b/image.png)](http://www.credly.com/badges/b09c4c1d-66e6-4762-b480-0fbc327e78ba "HashiCorp Certified: Terraform Authoring and Operations Professional")
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/3df18843-503c-490d-99b0-73008ede66ff "HashiCorp Certified: Terraform Associate (003)")
 <!--END_SECTION:badges-->
 HashiCorp #CloudEngineer
 
