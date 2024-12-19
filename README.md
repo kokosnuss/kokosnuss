@@ -1,4 +1,4 @@
-# Hello, it's a me ...
+# Hello, it's me: kokosnuss (coconut)
 Me: *opens chatGPT*  
 $ give me a random fun fact for my GitHub profile  
 :hourglass_flowing_sand:  
