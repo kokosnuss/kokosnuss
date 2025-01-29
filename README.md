@@ -14,6 +14,7 @@ Certifications:
 <!--END_SECTION:badges-->
 HashiCorp #CloudEngineer
 
+
 <!--
 **kokosnuss/kokosnuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
